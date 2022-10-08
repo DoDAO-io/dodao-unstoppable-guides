@@ -12,6 +12,7 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  | 3      | Using your Domain | All the ways you can use your UD NFT Domain |  [Link](generated/markdown/using-your-domain-unstoppable-academy.md) |
  | 4      | Choose your UD Domain | Step on how to choose a new UD Domain |  [Link](generated/markdown/choose-your-ud-domain-unstoppable-academy.md) |
  | 5      | Set up your Wallet | Steps on how to get started in Web3 by setting up your wallet |  [Link](generated/markdown/set-up-your-wallet-unstoppable-academy.md) |
+ | 6      | Mint your Domain | How to choose and mind a new UD NFT Domain |  [Link](generated/markdown/mint-your-domain-unstoppable-academy.md) |
 
 ---
 ## Footer
