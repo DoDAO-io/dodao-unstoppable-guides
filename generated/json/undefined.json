@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "setup"
+  ],
+  "content": "How to choose and mint a new UD NFT Domain",
+  "created": "2022-10-08T12:37:24.546Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "mint-your-domain-unstoppable-academy",
+  "name": "Mint your Domain",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon\n        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "5a9847cc-f8b6-4330-ae3f-6958a80c131d"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "7c6c37fd-7c2e-42a5-8159-75f8966792c5"
+        }
+      ],
+      "uuid": "2edf44ff-230a-4342-9d51-69533e85defa"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "4b9fffeb-d673-4a34-850f-c26b7f082fa9"
+        }
+      ],
+      "uuid": "da3b9eb1-b901-44cc-89cf-e9fe88d93c01"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "mint-your-domain-unstoppable-academy"
+}
