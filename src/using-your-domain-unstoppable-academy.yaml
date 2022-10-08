@@ -1,7 +1,7 @@
 categories:
   - setup
-content: Explains various ways you can use your UD NFT Domain
-created: '2022-10-08T09:13:20.514Z'
+content: All the ways you can use your UD NFT Domain
+created: '2022-10-08T09:34:45.420Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -49,4 +49,4 @@ steps:
     uuid: 69832dd2-b71d-4d7b-bb31-ac3107991d86
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/using_your_domain.png
-uuid: 90b1fb4d-e178-4280-b6eb-a5588e5c3604
+uuid: using-your-domain-unstoppable-academy

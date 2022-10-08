@@ -1,23 +1,23 @@
 {
   "categories": [
-    "introduction"
+    "setup"
   ],
-  "content": "What is an NFT and how UD-Domains can be used as NFTs ",
-  "created": "2022-10-08T09:34:20.208Z",
+  "content": "All the ways you can use your UD NFT Domain",
+  "created": "2022-10-08T09:34:45.420Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "onboarding",
-  "key": "what-is-nft-domain-unstoppable-academy",
-  "name": "What is NFT Domain?",
+  "key": "using-your-domain-unstoppable-academy",
+  "name": "Using your Domain",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "# Coming Soon        ",
+      "content": "\n# Coming Soon        ",
       "name": "Introduction",
       "stepItems": [],
-      "uuid": "547dfb7a-8b1d-44aa-9954-13c6a8d9663c"
+      "uuid": "74f72eca-5041-4a3f-8a0a-4e1624bd0925"
     },
     {
       "content": "",
@@ -46,12 +46,12 @@
               "key": "only_cat"
             }
           ],
-          "content": "Which of these is true about Unstoppable domains?",
+          "content": "Which of these is true about Unstoppable domains?\n\n",
           "type": "MultipleChoice",
-          "uuid": "1272969c-507c-413b-b083-bc79d8a8f59d"
+          "uuid": "1bfef629-5f11-4a4b-ada1-dce3f93cd74b"
         }
       ],
-      "uuid": "8020468c-f121-4e0a-bf22-6d44b93ad632"
+      "uuid": "e1aef6e5-529e-4f29-9b15-993c62e77d61"
     },
     {
       "content": "",
@@ -61,12 +61,12 @@
           "label": "Nickname",
           "required": true,
           "type": "PublicShortInput",
-          "uuid": "02987610-4544-45c8-8584-334e03d630a2"
+          "uuid": "3d4ff59b-f2c2-4ff0-b0a0-e2a8e76065a4"
         }
       ],
-      "uuid": "c52741c9-ec54-447d-b772-849fc0c6c741"
+      "uuid": "69832dd2-b71d-4d7b-bb31-ac3107991d86"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/what_is_nft_domain.png",
-  "uuid": "what-is-nft-domain-unstoppable-academy"
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/using_your_domain.png",
+  "uuid": "using-your-domain-unstoppable-academy"
 }
