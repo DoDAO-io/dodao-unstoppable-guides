@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "general"
+  ],
+  "content": "Explains how Web3 creates a new and more inclusive economy",
+  "created": "2022-10-08T12:49:32.054Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "impact-of-web3-on-economy-unstoppable-academy",
+  "name": "Impact of Web3 on Economy",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "a50f257a-5bb6-4095-86cb-a643b81331fe"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "0ee92807-1428-4349-a96d-25ec859c6f86"
+        }
+      ],
+      "uuid": "a55b8b8f-99d9-48ef-aee1-345132b6ac6b"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "fb133567-d95b-4165-9ca3-cb4fa31967aa"
+        }
+      ],
+      "uuid": "84235768-9a39-4e7b-9830-b970a248f41a"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "e7c5f45d-1dc6-47dc-8212-64820caa6729"
+}
