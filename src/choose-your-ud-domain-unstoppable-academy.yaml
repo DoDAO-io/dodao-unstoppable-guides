@@ -1,0 +1,50 @@
+categories:
+  - setup
+content: Step on how to choose a new UD Domain
+created: '2022-10-08T09:51:10.135Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: choose-your-ud-domain-unstoppable-academy
+name: Choose your UD Domain
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      # Coming Soon        
+    name: Introduction
+    stepItems: []
+    uuid: a89ac489-1cd2-400b-b089-db4daf062a6d
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - only_dog
+          - dog_and_cat
+        choices:
+          - content: >-
+              They are new extensions (similar to .com or .net) launched as
+              smart contracts on public blockchains
+            key: dog_and_cat
+          - content: All the domains are only available at premium prices
+            key: dog_or_cat
+          - content: All the domains are domains are ERC-721 (NFTs)
+            key: only_dog
+          - content: None of the above
+            key: only_cat
+        content: Which of these is true about Unstoppable domains?
+        type: MultipleChoice
+        uuid: b85e2a19-e2f3-43e4-99ea-311971d7bc71
+    uuid: 45a6cad6-2bde-488f-b863-77800afe08d2
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: 0f5d500d-146c-4610-90f5-c1ccf23cb574
+    uuid: 391a751c-33bb-458f-a544-22d92813affd
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: ac3c2b18-cb79-463b-80b7-b73bced4df7f
