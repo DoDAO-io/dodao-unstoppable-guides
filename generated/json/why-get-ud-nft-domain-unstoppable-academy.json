@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "introduction"
+  ],
+  "content": "Explains all the benefits of getting a UD-NFT domain",
+  "created": "2022-10-08T09:10:20.495Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "why-get-ud-nft-domain-unstoppable-academy",
+  "name": "Why get UD NFT Domain?",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "eb79a386-ff2d-482d-ad9c-0f5e001b1663"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "34681b97-311c-42b6-a4f2-e41d8e788d5e"
+        }
+      ],
+      "uuid": "ce0632fa-8a18-45fe-92db-a95f4b5e205e"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "5667ab6f-08a0-455c-bb9c-e123bb543c6d"
+        }
+      ],
+      "uuid": "039d5aca-61ba-4fd7-a33b-67c441c0726f"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "03fb6693-2abf-4533-a1c1-889f04f07d0f"
+}
