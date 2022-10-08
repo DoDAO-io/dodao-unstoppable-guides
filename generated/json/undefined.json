@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "introduction"
+  ],
+  "content": "What is an NFT and how UD-Domains can be used as NFTs ",
+  "created": "2022-10-08T09:34:20.208Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "what-is-nft-domain-unstoppable-academy",
+  "name": "What is NFT Domain?",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "547dfb7a-8b1d-44aa-9954-13c6a8d9663c"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "1272969c-507c-413b-b083-bc79d8a8f59d"
+        }
+      ],
+      "uuid": "8020468c-f121-4e0a-bf22-6d44b93ad632"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "02987610-4544-45c8-8584-334e03d630a2"
+        }
+      ],
+      "uuid": "c52741c9-ec54-447d-b772-849fc0c6c741"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/what_is_nft_domain.png",
+  "uuid": "what-is-nft-domain-unstoppable-academy"
+}
