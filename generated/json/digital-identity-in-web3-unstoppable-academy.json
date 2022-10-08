@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "general"
+  ],
+  "content": "Digital Identity Value in the Web3 World",
+  "created": "2022-10-08T12:46:44.501Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "digital-identity-in-web3-unstoppable-academy",
+  "name": "Digital Identity in Web3",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "ed8a18f4-16e5-406a-95e7-b10b54898021"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "23074591-aac2-475b-8d46-6e2b89bd0076"
+        }
+      ],
+      "uuid": "38f4bbd3-9ae9-40aa-b98e-48a31c684227"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "59a5e7fd-7d84-48d8-abfd-b10b0a2236a4"
+        }
+      ],
+      "uuid": "b81357bc-51a6-4175-b7d5-d8653752b1d2"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "0fd43588-d567-41e7-b1aa-f6c977d4f4a0"
+}
