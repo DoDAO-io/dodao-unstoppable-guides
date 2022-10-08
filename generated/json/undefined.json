@@ -1,15 +1,15 @@
 {
   "categories": [
-    "setup"
+    "introduction"
   ],
-  "content": "How to use UD dashboard to manage and update your domain",
-  "created": "2022-10-08T12:50:04.224Z",
+  "content": "How to get started in Web3 by setting up your wallet",
+  "created": "2022-10-08T12:50:37.168Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "onboarding",
-  "key": "manage-your-domain-unstoppable-academy",
-  "name": "Manage Your Domain",
+  "key": "set-up-your-wallet-unstoppable-academy",
+  "name": "Set up your Wallet",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
@@ -17,7 +17,7 @@
       "content": "\n# Coming Soon        ",
       "name": "Introduction",
       "stepItems": [],
-      "uuid": "aed4557e-7a63-4802-87a7-102d874416c0"
+      "uuid": "8f0986a3-5381-48d7-9644-5f5222606f80"
     },
     {
       "content": "",
@@ -48,10 +48,10 @@
           ],
           "content": "Which of these is true about Unstoppable domains?",
           "type": "MultipleChoice",
-          "uuid": "82163926-1cf2-4557-bccf-2527367b5e55"
+          "uuid": "ff17dc60-a34f-4ab3-abf2-5d0d8281ca92"
         }
       ],
-      "uuid": "68237cbd-1f11-4dc0-a092-6e6993647ca4"
+      "uuid": "64830e25-d029-4eea-8659-dc2898c00704"
     },
     {
       "content": "",
@@ -61,12 +61,12 @@
           "label": "Nickname",
           "required": true,
           "type": "PublicShortInput",
-          "uuid": "b5b50571-2098-4d99-bca9-2188625c0612"
+          "uuid": "bbf0d777-4739-41ae-a834-3bb584d82241"
         }
       ],
-      "uuid": "e4edf98e-5dd9-4956-a122-7010239ddac8"
+      "uuid": "ef6b842f-8079-4464-bbab-0655791e6979"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "manage-your-domain-unstoppable-academy"
+  "uuid": "set-up-your-wallet-unstoppable-academy"
 }
