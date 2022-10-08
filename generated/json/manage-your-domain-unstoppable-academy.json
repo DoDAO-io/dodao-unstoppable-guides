@@ -2,8 +2,8 @@
   "categories": [
     "setup"
   ],
-  "content": "How to use UD dashboard to manage and update you domain",
-  "created": "2022-10-08T12:39:56.283Z",
+  "content": "How to use UD dashboard to manage and update your domain",
+  "created": "2022-10-08T12:50:04.224Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -68,5 +68,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "0864c12f-7f8c-4790-bf91-c37f2aa11383"
+  "uuid": "manage-your-domain-unstoppable-academy"
 }

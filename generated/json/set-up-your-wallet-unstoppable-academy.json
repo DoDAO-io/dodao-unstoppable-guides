@@ -2,8 +2,8 @@
   "categories": [
     "introduction"
   ],
-  "content": "Steps on how to get started in Web3 by setting up your wallet",
-  "created": "2022-10-08T09:58:15.587Z",
+  "content": "How to get started in Web3 by setting up your wallet",
+  "created": "2022-10-08T12:50:37.168Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -68,5 +68,5 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "f65a2201-1bbc-4177-a43f-5b539fccbca7"
+  "uuid": "set-up-your-wallet-unstoppable-academy"
 }
