@@ -2,8 +2,8 @@
   "categories": [
     "introduction"
   ],
-  "content": "Explains what is an NFT and how U-Domains can be used as NFTs ",
-  "created": "2022-10-08T06:20:30.483Z",
+  "content": "Explains what is an NFT and how UD-Domains can be used as NFTs ",
+  "created": "2022-10-08T09:07:11.822Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -67,6 +67,6 @@
       "uuid": "c52741c9-ec54-447d-b772-849fc0c6c741"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "00b4c690-4f6e-4138-bef2-3acb49d1aef9"
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/what_is_nft_domain.png",
+  "uuid": "what-is-nft-domain-unstoppable-academy"
 }
