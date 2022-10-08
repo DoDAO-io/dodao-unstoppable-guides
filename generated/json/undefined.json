@@ -2,8 +2,8 @@
   "categories": [
     "introduction"
   ],
-  "content": "Explains what is an NFT and how U-Domains can be used as NFTs ",
-  "created": "2022-10-08T06:21:14.294Z",
+  "content": "Explains what is an NFT and how UD-Domains can be used as NFTs ",
+  "created": "2022-10-08T09:07:11.822Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -38,7 +38,7 @@
               "key": "dog_or_cat"
             },
             {
-              "content": "All the domains are ERC-721 (NFTs)",
+              "content": "All the domains are domains are ERC-721 (NFTs)",
               "key": "only_dog"
             },
             {

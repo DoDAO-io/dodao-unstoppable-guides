@@ -1,7 +1,7 @@
 categories:
   - introduction
-content: 'Explains what is an NFT and how U-Domains can be used as NFTs '
-created: '2022-10-08T06:21:14.294Z'
+content: 'Explains what is an NFT and how UD-Domains can be used as NFTs '
+created: '2022-10-08T09:07:11.822Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -27,7 +27,7 @@ steps:
             key: dog_and_cat
           - content: All the domains are only available at premium prices
             key: dog_or_cat
-          - content: All the domains are ERC-721 (NFTs)
+          - content: All the domains are domains are ERC-721 (NFTs)
             key: only_dog
           - content: None of the above
             key: only_cat
