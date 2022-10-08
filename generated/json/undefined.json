@@ -1,23 +1,23 @@
 {
   "categories": [
-    "introduction"
+    "setup"
   ],
-  "content": "What is a NFT and how UD-Domains can be used as NFTs ",
-  "created": "2022-10-08T18:20:26.575Z",
+  "content": "Steps on how to choose a new UD Domain",
+  "created": "2022-10-08T18:20:55.641Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
   "guideType": "onboarding",
-  "key": "what-is-nft-domain-unstoppable-academy",
-  "name": "What is NFT Domain?",
+  "key": "choose-your-ud-domain-unstoppable-academy",
+  "name": "Choose your UD Domain",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "# Coming Soon        ",
+      "content": "\n# Coming Soon        ",
       "name": "Introduction",
       "stepItems": [],
-      "uuid": "547dfb7a-8b1d-44aa-9954-13c6a8d9663c"
+      "uuid": "a89ac489-1cd2-400b-b089-db4daf062a6d"
     },
     {
       "content": "",
@@ -48,10 +48,10 @@
           ],
           "content": "Which of these is true about Unstoppable domains?",
           "type": "MultipleChoice",
-          "uuid": "1272969c-507c-413b-b083-bc79d8a8f59d"
+          "uuid": "b85e2a19-e2f3-43e4-99ea-311971d7bc71"
         }
       ],
-      "uuid": "8020468c-f121-4e0a-bf22-6d44b93ad632"
+      "uuid": "45a6cad6-2bde-488f-b863-77800afe08d2"
     },
     {
       "content": "",
@@ -61,12 +61,12 @@
           "label": "Nickname",
           "required": true,
           "type": "PublicShortInput",
-          "uuid": "02987610-4544-45c8-8584-334e03d630a2"
+          "uuid": "0f5d500d-146c-4610-90f5-c1ccf23cb574"
         }
       ],
-      "uuid": "c52741c9-ec54-447d-b772-849fc0c6c741"
+      "uuid": "391a751c-33bb-458f-a544-22d92813affd"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/what_is_nft_domain.png",
-  "uuid": "what-is-nft-domain-unstoppable-academy"
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/choose_nft_domain.png",
+  "uuid": "choose-your-ud-domain-unstoppable-academy"
 }

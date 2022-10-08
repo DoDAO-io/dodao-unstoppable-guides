@@ -1,7 +1,7 @@
 categories:
   - setup
-content: Step on how to choose a new UD Domain
-created: '2022-10-08T09:51:10.135Z'
+content: Steps on how to choose a new UD Domain
+created: '2022-10-08T18:20:55.641Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -47,4 +47,4 @@ steps:
     uuid: 391a751c-33bb-458f-a544-22d92813affd
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/unstoppable/choose_nft_domain.png
-uuid: ac3c2b18-cb79-463b-80b7-b73bced4df7f
+uuid: choose-your-ud-domain-unstoppable-academy
