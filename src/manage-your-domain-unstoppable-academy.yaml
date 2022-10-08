@@ -1,0 +1,50 @@
+categories:
+  - setup
+content: How to use UD dashboard to manage and update you domain
+created: '2022-10-08T12:39:56.283Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: manage-your-domain-unstoppable-academy
+name: Manage Your Domain
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      # Coming Soon        
+    name: Introduction
+    stepItems: []
+    uuid: aed4557e-7a63-4802-87a7-102d874416c0
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - answerKeys:
+          - only_dog
+          - dog_and_cat
+        choices:
+          - content: >-
+              They are new extensions (similar to .com or .net) launched as
+              smart contracts on public blockchains
+            key: dog_and_cat
+          - content: All the domains are only available at premium prices
+            key: dog_or_cat
+          - content: All the domains are domains are ERC-721 (NFTs)
+            key: only_dog
+          - content: None of the above
+            key: only_cat
+        content: Which of these is true about Unstoppable domains?
+        type: MultipleChoice
+        uuid: 82163926-1cf2-4557-bccf-2527367b5e55
+    uuid: 68237cbd-1f11-4dc0-a092-6e6993647ca4
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: b5b50571-2098-4d99-bca9-2188625c0612
+    uuid: e4edf98e-5dd9-4956-a122-7010239ddac8
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 0864c12f-7f8c-4790-bf91-c37f2aa11383
