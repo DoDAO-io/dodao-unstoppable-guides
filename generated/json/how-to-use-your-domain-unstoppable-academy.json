@@ -1,0 +1,72 @@
+{
+  "categories": [
+    "overview"
+  ],
+  "content": "Explains the different ways you can make use of your UD domain",
+  "created": "2022-10-08T12:43:41.687Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "how-to-use-your-domain-unstoppable-academy",
+  "name": "How to Use your Domain",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\n# Coming Soon        ",
+      "name": "Introduction",
+      "stepItems": [],
+      "uuid": "0de69143-d060-4e06-89c7-58539489d16b"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "only_dog",
+            "dog_and_cat"
+          ],
+          "choices": [
+            {
+              "content": "They are new extensions (similar to .com or .net) launched as smart contracts on public blockchains",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "All the domains are only available at premium prices",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "All the domains are domains are ERC-721 (NFTs)",
+              "key": "only_dog"
+            },
+            {
+              "content": "None of the above",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Which of these is true about Unstoppable domains?",
+          "type": "MultipleChoice",
+          "uuid": "781cd323-a355-4fb1-8b3f-8467e9cda3bf"
+        }
+      ],
+      "uuid": "d5dfaaab-a4b7-4b95-8f69-aeeeb7894e21"
+    },
+    {
+      "content": "",
+      "name": "Your Info",
+      "stepItems": [
+        {
+          "label": "Nickname",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "f5c2cff1-fbfd-4f05-93c4-7372be855acd"
+        }
+      ],
+      "uuid": "dc7b6b2b-b826-4325-b442-bcce5a28f9e9"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "1e6192c7-ba3a-457d-be0c-0b9fd63eff78"
+}
